@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Banner](file:///C:/Users/Mati/Desktop/banner-github.png)
+[Banner][(file:///C:/Users/Mati/Desktop/banner-github.png)]
 
 - 🌱 I’m currently learning Python and JavaScript.
 - 👨🏻‍🎓 I’m looking to collaborate on Open Source project, but i'm still learning about programing.
