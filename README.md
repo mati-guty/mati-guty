@@ -1,7 +1,5 @@
 ### Hi there 👋
-<a href
-<!--
-**mati-guty/mati-guty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Banner](file:///C:/Users/Mati/Desktop/banner-github.png)
 
 Here are some ideas to get you started:
 
