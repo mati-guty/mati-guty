@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Banner][(file:///C:/Users/Mati/Desktop/banner-github.png)]
+<div style="background-image: url('https://ibb.co/0tvccX2V'); background-size: cover; background-position: center; height: 300px;"></div>
 
 - 🌱 I’m currently learning Python and JavaScript.
 - 👨🏻‍🎓 I’m looking to collaborate on Open Source project, but i'm still learning about programing.
