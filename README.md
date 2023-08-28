@@ -1,5 +1,6 @@
 ### Hi there 👋
-<div style="background-image: url('banner-github.png'); background-size: cover; background-position: center; height: 300px;"></div>
+
+![](https://github.com/mati-guty/mati-guty/blob/main/banner-github.png)
 
 - 🌱 I’m currently learning Python and JavaScript.
 - 👨🏻‍🎓 I’m looking to collaborate on Open Source project, but i'm still learning about programing.
