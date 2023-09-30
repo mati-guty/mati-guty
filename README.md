@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, there 👋
 
 ![](https://github.com/mati-guty/mati-guty/blob/main/banner-github.png)
 
